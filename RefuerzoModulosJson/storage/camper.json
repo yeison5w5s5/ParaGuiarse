@@ -1,0 +1,21 @@
+[
+    [
+        {
+            "n_identificacion": 14854,
+            "nombre": "Eduar",
+            "apellido": "Barrera",
+            "dirrecion": "Calle 11",
+            "acudiente": [
+                {
+                    "n_identificacion": 159,
+                    "nombre": "Carlos"
+                },
+                {
+                    "n_identificacion": 963,
+                    "nombre": "Lia"
+                }
+            ],
+            "estado": "preInscrita"
+        }
+    ]
+]

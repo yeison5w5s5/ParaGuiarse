@@ -1,0 +1,38 @@
+[
+    {
+        "codigo": "R1",
+        "nombre_ruta": "NodeJs",
+        "modulo": [
+            {
+                "codigo": "F006",
+                "nombre_modulo": "Inteligencia artificial",
+                "temario": [
+                    "aprendizaje autom\u00c3\u00a1tico",
+                    "redes neuronales",
+                    "procesamiento de lenguaje natural",
+                    "visi\u00c3\u00b3n por computadora",
+                    "\u00c3\u00a9tica en la IA"
+                ],
+                "prioridad": "Avanzado"
+            }
+        ]
+    },
+    {
+        "codigo": "R2",
+        "nombre_ruta": "Java",
+        "modulo": [
+            {
+                "codigo": "F004",
+                "nombre_modulo": "Desarrollo web",
+                "temario": [
+                    "HTML",
+                    "CSS",
+                    "JavaScript",
+                    "frameworks web",
+                    "API REST"
+                ],
+                "prioridad": "Principal"
+            }
+        ]
+    }
+]
